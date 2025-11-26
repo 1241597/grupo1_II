@@ -1,2 +1,28 @@
 F. O ficheiro ReadMe é um com ficheiro com uma descrição do que o projeto que esta no repositório pode fazer, bem como credenciais para aceder ao mesmo
 se necessário e formas como utilizá-lo  
+
+G. Merge é um processo de integrar alterações de uma branch para outra em Git. Existem outros dois tipos de merge que são:
+Fast Forward Merge: Ocorre quando quando não há commits novos na branch de destino;
+Three-Way Merge: É usado quando ambas as branches têm commits diferentes  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

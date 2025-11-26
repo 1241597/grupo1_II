@@ -1,0 +1,3 @@
+Diga 2 vantagens dos sistemas de controlo de versões e descreva-as.
+	Os membros da equipa conseguem ver o trabalho uns dos outros.
+	Os administradores conseguem acompanhar o processo projeto.

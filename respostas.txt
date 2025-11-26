@@ -1,3 +1,6 @@
 Diga 2 vantagens dos sistemas de controlo de versões e descreva-as.
 	Os membros da equipa conseguem ver o trabalho uns dos outros.
 	Os administradores conseguem acompanhar o processo projeto.
+	
+No git quais os 3 estados em que pode estar um ficheiro/directório.
+	working directory, Staging area e repository.

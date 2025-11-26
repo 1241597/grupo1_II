@@ -4,3 +4,9 @@ Diga 2 vantagens dos sistemas de controlo de versões e descreva-as.
 	
 No git quais os 3 estados em que pode estar um ficheiro/directório.
 	working directory, Staging area e repository.
+
+
+
+H. O comando para verifrcar os ficherios adicionados que não estão como staged e ficheiros que estão como staged é: git status 
+
+J. O comando git log --follow meu_script.py é para fazer seguir o ficheiro meu_script.py durante um log 
